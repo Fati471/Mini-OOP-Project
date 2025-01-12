@@ -46,7 +46,7 @@ void Run::set_longest(string n, float d) {
 }
 
 void Run::show_Longest() {
-	cout<<"Runner who covers longest distance of "<<longestDistance<<"km is "<<longestRunner<<"."<<endl;
+	cout<<"\nRunner who covers longest distance of "<<longestDistance<<"km is "<<longestRunner<<"."<<endl;
 }
 
 int main() {
